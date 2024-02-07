@@ -7,4 +7,9 @@ This is a Car website where it has a slide show of different cars.
 1. HTML
 2. CSS
 3. JS
-4. React js 
+4. React js
+
+## How to install
+Clone the project from this link <>Git clone link<>
+### to install node packages
+npm install 
